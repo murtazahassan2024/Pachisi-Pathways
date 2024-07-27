@@ -1,0 +1,9 @@
+.dashboardImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dashboardHeading{
+    text-align: center;
+}
